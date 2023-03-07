@@ -32,10 +32,14 @@ The [skewness][skewness] for a [gamma][gamma-distribution] random variable with 
 
 <!-- <equation class="equation" label="eq:gamma_skewness" align="center" raw="\operatorname{skew}\left( X \right) = \frac{2}{\sqrt{\alpha}}" alt="Skewness for a gamma distribution."> -->
 
-<div class="equation" align="center" data-raw-text="\operatorname{skew}\left( X \right) = \frac{2}{\sqrt{\alpha}}" data-equation="eq:gamma_skewness">
+```math
+\operatorname{skew}\left( X \right) = \frac{2}{\sqrt{\alpha}}
+```
+
+<!-- <div class="equation" align="center" data-raw-text="\operatorname{skew}\left( X \right) = \frac{2}{\sqrt{\alpha}}" data-equation="eq:gamma_skewness">
     <img src="https://cdn.jsdelivr.net/gh/stdlib-js/stdlib@51534079fef45e990850102147e8945fb023d1d0/lib/node_modules/@stdlib/stats/base/dists/gamma/skewness/docs/img/equation_gamma_skewness.svg" alt="Skewness for a gamma distribution.">
     <br>
-</div>
+</div> -->
 
 <!-- </equation> -->
 
@@ -227,7 +231,7 @@ Copyright &copy; 2016-2023. The Stdlib [Authors][stdlib-authors].
 -->
 
 [chat-image]: https://img.shields.io/gitter/room/stdlib-js/stdlib.svg
-[chat-url]: https://gitter.im/stdlib-js/stdlib/
+[chat-url]: https://app.gitter.im/#/room/#stdlib-js_stdlib:gitter.im
 
 [stdlib]: https://github.com/stdlib-js/stdlib
 
