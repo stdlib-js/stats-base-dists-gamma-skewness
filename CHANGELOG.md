@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2024-12-21)
+## Unreleased (2025-01-12)
 
 <section class="features">
 
@@ -34,6 +34,7 @@ This release closes the following issue:
 
 <details>
 
+-   [`fc0ff17`](https://github.com/stdlib-js/stdlib/commit/fc0ff171dab59e73e1748c1bff504166adc826c3) - **chore:** directly draw from the desired distribution instead of adding constants _(by Philipp Burckhardt)_
 -   [`6043777`](https://github.com/stdlib-js/stdlib/commit/6043777df454d2e288e0f00ebe7cbc3b26423c1b) - **feat:** add C implementation for `stats/base/dists/gamma/skewness` [(#4124)](https://github.com/stdlib-js/stdlib/pull/4124) _(by Prashant Kumar Yadav, Philipp Burckhardt)_
 
 </details>
